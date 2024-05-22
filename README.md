@@ -1,4 +1,4 @@
-### Eae! Eu sou o <a href="https://github.com/DevPedroHSilva/">Pedro Henrique</a> 👋
+### Aoba, eu sou o <a href="https://github.com/DevPedroHSilva/">Pedro Henrique</a> 👋
 <br/>
 <div style="display: inline_block; width:100%">
   <img style="width:50%;display: inline_block " src="https://github-readme-stats.vercel.app/api?username=DevPedroHSilva&show_icons=true&include_all_commits=true&count_private=true"/>
